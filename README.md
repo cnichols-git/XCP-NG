@@ -1,0 +1,2 @@
+# XCP-NG
+Virtual stuff
